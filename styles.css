@@ -7,10 +7,21 @@
     position: relative;
     
 }
+/* 
+CSS cheat code in Chrome developer tools - copy selector
+
+.flag div div p {
+    color: black;
+}
+
+body > div > div > div > p
+
+*/
 
 .flag > p {
     color: white;
 }
+
 
 /* Blue rectangle*/
 
