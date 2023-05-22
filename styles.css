@@ -28,3 +28,7 @@
     top: 50px;
     left: 350px;
 }
+
+p {
+    margin: 0;
+}
