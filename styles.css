@@ -5,6 +5,11 @@
     height: 600px;
     background-color: #ce1126;
     position: relative;
+    
+}
+
+.flag > p {
+    color: white;
 }
 
 /* Blue rectangle*/
@@ -31,4 +36,6 @@
 
 p {
     margin: 0;
+    font-size: 5rem;
+    text-align: center;
 }
